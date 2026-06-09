@@ -1,6 +1,6 @@
-<span style="display:block;text-align:center">![raytek Nocturne](./docs/readme/nocturne_banner.png)</span>
+<span style="display:block;text-align:center">![Skyfox](./docs/readme/nocturne_banner.png)</span>
 
-Nocturne is a fork of r3dfox that restores removed Firefox CSS customization options, keeps Windows 7 and 8 support alive, and targets customized Windows 10/11 builds.
+Skyfox is a fork of Nocturne (which is a fork of r3dfox) that restores removed Firefox CSS customization options, keeps Windows Vista & 7 support alive, and targets customized Windows 10/11 builds.
 
 [![Github All Releases](https://img.shields.io/github/downloads/raytek-cafe/nocturne/total.svg)](https://github.com/raytek-cafe/Nocturne/releases/latest)
 [![Star][star-badge]][star]
@@ -36,7 +36,7 @@ Nocturne is a fork of r3dfox that restores removed Firefox CSS customization opt
 
 ## Features
 
-Nocturne keeps the browser feeling familiar while adding Windows-focused polish and compatibility:
+Skyfox keeps the browser feeling familiar while adding Windows-focused polish and compatibility:
 
 - More native-like controls, scrollbars, checkboxes, radio buttons, and tooltips
 - Aero Glass support on Windows 8/10+
@@ -74,6 +74,7 @@ If I've forgotten to put your name here, please let me know and I'll add it.
 - [bbc-chi](https://github.com/bbc-chi/) - Fullscreen transition fix
 - [Alex313031](https://github.com/Alex313031/) - Mozconfig, general help with the browser, and changes from Mercury browser
 - [newbie-461](https://github.com/newbie-461/) - Fixed the installer issues
+- [raytek.cafe](https://github.com/raytek.cafe/) - Making Nocturne, etc etc
 - [SashaXser](https://github.com/SashaXser/) - Improved rustflags opts in mozconfig
 - [Librewolf Developers](https://librewolf.net/) - Privacy tweaks from Librewolf
 - [Mozilla Developers](https://www.firefox.com/) - Firefox browser base

@@ -1,4 +1,4 @@
-<span style="display:block;text-align:center">![raytek Nocturne](./docs/readme/nocturne_banner.png)</span>
+<span style="display:block;text-align:center">![raytek Nocturne](./docs/readme/banner.png)</span>
 
 Nocturne is a fork of r3dfox that restores removed Firefox CSS customization options, keeps Windows 7 and 8 support alive, and targets customized Windows 10/11 builds.
 
